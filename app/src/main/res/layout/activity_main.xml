@@ -29,9 +29,7 @@
                 android:gravity="center_horizontal"
                 android:text="Real"
                 android:textColor="#000"
-                android:textSize="20sp"
-
-                />
+                android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/team_a_score"
@@ -41,9 +39,7 @@
                 android:gravity="center_horizontal"
                 android:padding="4dp"
                 android:text="0"
-                android:textSize="15sp"
-
-                />
+                android:textSize="15sp" />
 
             <Button
                 android:layout_width="match_parent"
@@ -52,9 +48,7 @@
                 android:background="#C92228"
                 android:onClick="scoreOneGoalForRealMadrid"
                 android:text="GOAL"
-                android:textColor="#fff"
-
-                />
+                android:textColor="#fff" />
 
 
         </LinearLayout>
